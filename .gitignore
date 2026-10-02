@@ -1,0 +1,12 @@
+﻿# IDE
+.vscode/
+.idea/
+
+# Build/cache
+bin/
+.cache/
+.gocache/
+
+# Local store/demo data
+data/
+data-*/
